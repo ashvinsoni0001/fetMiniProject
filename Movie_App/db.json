@@ -1,0 +1,423 @@
+{
+  "array": [
+    {
+      "name": "vinod",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "ash",
+      "email": "a@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "arjun",
+      "email": "arjun@gmail.com",
+      "password": "123456",
+      "id": 10
+    },
+    {
+      "name": "nnntgfhgjnhhjnhgfg",
+      "city": "nigeria",
+      "email": "nigel@gmail.com",
+      "password": "1234",
+      "id": 13
+    },
+    {
+      "name": "nnntgfhgjnhhjnhgfg",
+      "city": "nigeria",
+      "email": "nigel@gmail.com",
+      "password": "12334",
+      "id": 19
+    },
+    {
+      "name": "kkkkkbbbbbbtgfhgjnhhjnhgfg",
+      "city": "nigeria",
+      "email": "bel@gmail.com",
+      "password": "1234",
+      "id": 20
+    },
+    {
+      "name": "srrftgrfhyds",
+      "city": "fsfgf",
+      "email": "sihhhd@gmail.com",
+      "password": "1234",
+      "id": 25
+    },
+    {
+      "name": "pooja",
+      "city": "pune",
+      "email": "puja@gmail.com",
+      "password": "puja",
+      "id": 26
+    },
+    {
+      "name": "simran",
+      "city": "america",
+      "email": "simran@gmail.com",
+      "password": "1234",
+      "id": 27
+    },
+    {
+      "name": "simran",
+      "city": "america",
+      "email": "simran@gmail.com",
+      "password": "1234",
+      "id": 28
+    },
+    {
+      "name": "aaa",
+      "city": "aaa",
+      "email": "d",
+      "password": "1234",
+      "id": 29
+    },
+    {
+      "name": "joy",
+      "city": "america",
+      "email": "joy@gmail.com",
+      "password": "1234",
+      "id": 30
+    },
+    {
+      "name": "Rohit ",
+      "city": " Mumbai",
+      "email": "rohitmoh@cybage.com",
+      "password": "12345",
+      "id": 31
+    },
+    {
+      "name": "Akshay",
+      "city": "Pune",
+      "email": "ak@gmail.com",
+      "password": "1234",
+      "id": 32
+    },
+    {
+      "name": "Pratyush",
+      "city": "Pune",
+      "email": "pra@gmail.com",
+      "password": "1234",
+      "id": 33
+    },
+    {
+      "name": "kaman",
+      "city": "america",
+      "email": "kk@gmail.com",
+      "password": "1234",
+      "id": 34
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Loki",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "desc": "Loki is an American television series created by Michael Waldron for the streaming service Disney+, based on Marvel Comics featuring the character of the same name. It is the third television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise. The series takes place after the events of the film Avengers: Endgame (2019), in which an alternate version of Loki created a new timeline. Waldron served as head writer and Kate Herron directed the first season, with Eric Martin and the duo Justin Benson and Aaron Moorhead serving as head writer and leading the directing team for the second season, respectively.",
+      "year": "2021"
+    },
+    {
+      "id": 2,
+      "title": "Mulan",
+      "url": "../assets/video/geographic.mp4",
+      "poster": "../assets/img/poster 2.png",
+      "desc": "Mulan is a 2020 American fantasy action drama film produced by Walt Disney Pictures. Directed by Niki Caro from a screenplay by Rick Jaffa, Amanda Silver, Lauren Hynek, and Elizabeth Martin, it is a live-action adaptation of Disney's 1998 animated film of the same name, itself based on the Chinese folklore story Ballad of Mulan. The film stars Yifei Liu in the title role, alongside Donnie Yen, Tzi Ma, Jason Scott Lee, Yoson An, Ron Yuan, Gong Li, and Jet Li in supporting roles. In the film, Hua Mulan, the eldest daughter of an honored warrior, masquerades as a man to take her ailing father's place during a general conscription to counter the Rouran army in Imperial China.",
+      "year": 2020
+    },
+    {
+      "id": 3,
+      "title": "Winter ",
+      "url": "../assets/video/marvel.mp4",
+      "poster": "../assets/img/poster 3.png",
+      "desc": "Captain America: The Winter Soldier is a 2014 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and the ninth film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by the writing team of Christopher Markus and Stephen McFeely. It stars Chris Evans as Steve Rogers / Captain America alongside Scarlett Johansson, Sebastian Stan, Anthony Mackie, Cobie Smulders, Frank Grillo, Emily VanCamp, Hayley Atwell, Toby Jones, Jenny Agutter, Robert Redford, and Samuel L. Jackson. In the film, Captain America joins forces with Black Widow (Johansson) and Falcon (Mackie) to uncover a conspiracy within the spy agency S.H.I.E.L.D. while facing a mysterious assassin known as the Winter Soldier (Stan).",
+      "year": "2014"
+    },
+    {
+      "id": 4,
+      "title": "Avengers",
+      "url": "../assets/video/ocean.mp4",
+      "poster": "../assets/img/poster 4.png",
+      "desc": "Marvel's The Avengers[5] (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland),[1][6] or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,[a] it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth",
+      "year": "2012"
+    },
+    {
+      "id": 5,
+      "title": "Thor",
+      "url": "../assets/video/stunt.mp4",
+      "poster": "../assets/img/poster 5.png",
+      "desc": "Thor is a 2011 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Paramount Pictures,[a] it is the fourth film in the Marvel Cinematic Universe (MCU). It was directed by Kenneth Branagh, written by the writing team of Ashley Edward Miller and Zack Stentz along with Don Payne, and stars Chris Hemsworth as the title character alongside Natalie Portman, Tom Hiddleston, Stellan Skarsgård, Kat Dennings, Clark Gregg, Colm Feore, Ray Stevenson, Idris Elba, Jaimie Alexander, Rene Russo, and Anthony Hopkins. After reigniting a dormant war, Thor is banished from Asgard to Earth, stripped of his powers and his hammer Mjölnir. As his brother Loki (Hiddleston) plots to take the Asgardian throne, Thor must prove himself worthy.",
+      "year": "2011"
+    },
+    {
+      "id": 6,
+      "title": "Avengers",
+      "url": "../assets/video/buildings.mp4",
+      "poster": "../assets/img/poster 6.png",
+      "desc": "Marvel's The Avengers[5] (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland),[1][6] or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,[a] it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth",
+      "year": "2012"
+    }
+  ],
+  "trendingMovies": [
+    {
+      "id": 1,
+      "title": "City ",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.webp"
+    },
+    {
+      "id": 2,
+      "title": "City ",
+      "url": "../assets/video/geographic.mp4",
+      "poster": "../assets/img/poster 2.webp"
+    },
+    {
+      "id": 3,
+      "title": "City ",
+      "url": "./assets/video/marvel.mp4",
+      "poster": "./assets/img/poster 3.webp"
+    },
+    {
+      "id": 4,
+      "title": "City ",
+      "url": "../assets/video/ocean.mp4",
+      "poster": "../assets/img/poster 4.webp"
+    },
+    {
+      "id": 5,
+      "title": "City ",
+      "url": "../assets/video/stunt.mp4",
+      "poster": "../assets/img/poster 5.webp"
+    },
+    {
+      "id": 6,
+      "title": "City ",
+      "url": "../assets/video/buildings.mp4",
+      "poster": "../assets/img/poster 6.webp"
+    }
+  ],
+  "tvshows": [
+    {
+      "id": 1,
+      "title": "City of Dreams",
+      "url": "../assets/video/Bird.mp4",
+      "poster": "../assets/img/card 13.webp"
+    },
+    {
+      "id": 2,
+      "title": "City of Dreams",
+      "url": "../assets/video/hiking.mp4",
+      "poster": "../assets/img/card 17.webp"
+    },
+    {
+      "id": 3,
+      "title": "City of Dreams",
+      "url": "../assets/video/stunt.mp4",
+      "poster": "../assets/img/card 18.webp"
+    },
+    {
+      "id": 4,
+      "title": "City of Dreams",
+      "url": "../assets/video/star-war.mp4",
+      "poster": "../assets/img/card 19.webp"
+    },
+    {
+      "id": 5,
+      "title": "City of Dreams",
+      "url": "../assets/video/marvel.mp4",
+      "poster": "../assets/img/card 20.webp"
+    },
+    {
+      "id": 6,
+      "title": "City of Dreams",
+      "url": "../assets/video/marvel.mp4",
+      "poster": "../assets/img/card 1.webp"
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "title": "City of Dreams",
+      "url": "../assets/music/music1.mp3",
+      "poster": "../assets/img/song/song1.jfif"
+    },
+    {
+      "id": 2,
+      "title": "City of Dreams",
+      "url": "../assets/music/music2.mp3",
+      "poster": "../assets/img/song/song2.jfif"
+    },
+    {
+      "id": 3,
+      "title": "City of Dreams",
+      "url": "../assets/music/music3.mp3",
+      "poster": "../assets/img/song/song3.jfif"
+    },
+    {
+      "id": 4,
+      "title": "City of Dreams",
+      "url": "./assets/music/music4.mp3",
+      "poster": "../assets/img/song/song4.jfif"
+    },
+    {
+      "id": 5,
+      "title": "City of Dreams",
+      "url": "../assets/music/music5.mp3",
+      "poster": "../assets/img/song/song5.jfif"
+    },
+    {
+      "id": 6,
+      "title": "City of Dreams",
+      "url": "../assets/music/music5.mp3",
+      "poster": "../assets/img/song/song6.jfif"
+    }
+  ],
+  "favMovie": [
+    {
+      "email": "arjun@gmail.com",
+      "personId": "10",
+      "movid": 1,
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 1
+    },
+    {
+      "email": "arjun@gmail.com",
+      "personId": "10",
+      "movid": "6",
+      "title": "City of Dreams",
+      "url": "../assets/video/buildings.mp4",
+      "poster": "../assets/img/poster 6.png",
+      "id": 13
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 14
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "3",
+      "title": "City of Dreams",
+      "url": "../assets/video/marvel.mp4",
+      "poster": "../assets/img/poster 3.png",
+      "id": 15
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "4",
+      "title": "City of Dreams",
+      "url": "../assets/video/ocean.mp4",
+      "poster": "../assets/img/poster 4.png",
+      "id": 16
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 17
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 18
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 19
+    },
+    {
+      "email": "simran@gmail.com",
+      "personId": "27",
+      "movid": "6",
+      "title": "City of Dreams",
+      "url": "../assets/video/buildings.mp4",
+      "poster": "../assets/img/poster 6.png",
+      "id": 20
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 21
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "1",
+      "title": "City of Dreams",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 22
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "2",
+      "title": "City of Dreams",
+      "url": "../assets/video/geographic.mp4",
+      "poster": "../assets/img/poster 2.png",
+      "id": 23
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "2",
+      "title": "City of Dreams",
+      "url": "../assets/video/geographic.mp4",
+      "poster": "../assets/img/poster 2.png",
+      "id": 24
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "4",
+      "title": "City of Dreams",
+      "url": "../assets/video/ocean.mp4",
+      "poster": "../assets/img/poster 4.png",
+      "id": 25
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "4",
+      "title": "City of Dreams",
+      "url": "../assets/video/ocean.mp4",
+      "poster": "../assets/img/poster 4.png",
+      "id": 26
+    },
+    {
+      "email": "kk@gmail.com",
+      "personId": "34",
+      "movid": "1",
+      "title": "Loki",
+      "url": "../assets/video/disney.mp4",
+      "poster": "../assets/img/poster 1.png",
+      "id": 27
+    }
+  ]
+}

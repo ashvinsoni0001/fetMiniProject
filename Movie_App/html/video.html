@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+
+    
+    <link rel="stylesheet" href="../assets/css/video.css">
+    <script src="../assets/scripts/movie.js"></script>
+    <script src="../assets/scripts/video.js"></script>
+
+   
+
+    
+</head>
+
+<body>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark text-white">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"><span style="color:red">POPCORN BOX APP</span></a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="homepage.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="movie.html">Movies</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="music.html">Songs</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="tvshow.html">TV Shows</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="favorite.html">Favorites</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="userProfile.html" >User Profile</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+          <button class="btn btn-outline-success" type="submit">Search</button>
+        </form>
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a id="logout" class="nav-link" aria-current="page" href="NewHomePage.html">Logout</a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+      <br><br><br><br>
+
+      <video id="show" src="../assets/video/stunt.mp4" playsinline controls  autoplay ></video>
+
+<div  class="container">
+   <div class="d-flex flex-column mb-3">
+  <span class="spans"> Movie Name:</span> <div id="nameMovie" class="title"></div>
+  <span class="spans"> Movie Title:</span><div id="yearMovie" class="title"></div>
+
+    <span class="spans"> Movie description:</span><div id="description" class="title"></div>
+   </div>
+</div>
+    </body>
+</html>
